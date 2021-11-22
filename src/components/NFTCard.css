@@ -1,0 +1,39 @@
+@media screen and (max-width: 500px), 
+       screen and (max-height: 700px) {
+}
+
+.main-card{
+    height: 40%;
+    max-height:600px;
+    width: 40%;
+    max-width:300px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #1e2b63;
+}
+
+.main-image{
+    width: 100%;
+}
+.description h4 {
+    color: white;
+    text-align: left;
+}
+.description p {
+    color: #8aa6d4;
+    text-align: left;
+}
+
+.price-time {
+    display: flex;
+    justify-content: space-between;
+}
+#price{
+    color: #00ffe5;
+}
+#time{
+    color: #8aa6d4;
+}
+hr {
+    border-color: #2c3f91;
+}
