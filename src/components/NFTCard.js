@@ -20,7 +20,7 @@ const NFTCard = () => (
       </div>
       <hr/>
       <div className='bottom-container'>
-        <p>Creation of Jules Wyvern</p>
+        <p>Creation of Jason Kobuchi</p>
       </div>
     </div>
 );

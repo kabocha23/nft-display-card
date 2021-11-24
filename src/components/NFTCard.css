@@ -4,10 +4,12 @@
 
 .main-card{
     height: 40%;
+    min-height: 400px;
     max-height:600px;
     width: 40%;
+    min-width: 250px;
     max-width:300px;
-    padding: 20px;
+    padding: 5%;
     border-radius: 10px;
     background-color: #1e2b63;
 }
@@ -36,4 +38,10 @@
 }
 hr {
     border-color: #2c3f91;
+}
+.bottom-container{
+
+}
+.bottom-container p{
+    color: white;
 }
